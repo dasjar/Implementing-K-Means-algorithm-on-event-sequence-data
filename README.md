@@ -1,1 +1,1 @@
-# Implementing-K-Means-algorithm-on-event-sequence-data
+link to dataset ( https://archive.ics.uci.edu/dataset/34/diabetes)
